@@ -1,10 +1,7 @@
-=========================================================
 NEXUS GAMING SYSTEM
 DOCUMENTAÇÃO DO PROJETO
-=========================================================
 
 Disciplina: Programação Orientada a Objetos
-Professor: ___________________________
 
 Integrantes:
 
@@ -12,9 +9,7 @@ Integrantes:
 - Rafael Alves Gubetti
 - Luiz Henrique Altini
 
-=========================================================
 1. OBJETIVO DO SISTEMA
-=========================================================
 
 O Nexus Gaming System foi desenvolvido com o objetivo de auxiliar
 o gerenciamento de uma Lan House/Gaming Lab.
