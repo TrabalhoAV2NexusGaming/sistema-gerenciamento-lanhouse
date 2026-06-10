@@ -30,9 +30,7 @@ O projeto foi desenvolvido aplicando os conceitos de Programação
 Orientada a Objetos, Interface Gráfica, Eventos, JDBC,
 Herança, Interfaces, Enumerações e Banco de Dados Relacional.
 
-=========================================================
 2. TECNOLOGIAS UTILIZADAS
-=========================================================
 
 Linguagem:
 - Java
@@ -53,9 +51,7 @@ Bibliotecas:
 - JDBC
 - Swing
 
-=========================================================
 3. REFERÊNCIAS UTILIZADAS
-=========================================================
 
 Base principal:
 
@@ -82,9 +78,7 @@ JDBC e Persistência em Banco de Dados
 Disponível em:
 https://app.minhabiblioteca.com.br/
 
-=========================================================
 4. ESTRUTURA DO PROJETO
-=========================================================
 
 src
 
@@ -139,9 +133,7 @@ src
 └── main
     └── Main
 
-=========================================================
 5. DIAGRAMA UML
-=========================================================
 
 O relacionamento completo das classes está descrito
 no arquivo:
@@ -169,9 +161,7 @@ Principais relacionamentos:
 - Sessão possui Pagamento
 - Sessão pode utilizar Promoção
 
-=========================================================
 6. BANCO DE DADOS
-=========================================================
 
 Banco utilizado:
 
@@ -194,9 +184,7 @@ Arquivos SQL:
 O banco de dados é acessado através da classe
 ConexaoMySQL e das classes DAO utilizando JDBC.
 
-=========================================================
 7. FUNCIONALIDADES IMPLEMENTADAS
-=========================================================
 
 ✔ Login do sistema
 
@@ -226,9 +214,7 @@ ConexaoMySQL e das classes DAO utilizando JDBC.
 
 ✔ Organização em Camadas (MVC + DAO)
 
-=========================================================
 8. ARQUITETURA DO SISTEMA
-=========================================================
 
 O projeto foi organizado utilizando separação em camadas.
 
@@ -266,9 +252,7 @@ SessaoDAO
 ↓
 Banco MySQL
 
-=========================================================
 9. DIVISÃO DAS ATIVIDADES
-=========================================================
 
 Eduardo Reichel Vieira
 
@@ -306,9 +290,7 @@ Responsável por:
 - Modelagem UML
 - Organização visual do projeto
 
-=========================================================
 10. MELHORIAS FUTURAS
-=========================================================
 
 As próximas versões do sistema poderão incluir:
 
@@ -322,9 +304,7 @@ As próximas versões do sistema poderão incluir:
 - Controle de caixa
 - Emissão de comprovantes
 
-=========================================================
 11. GITHUB
-=========================================================
 
 Repositório do Projeto:
 
@@ -341,9 +321,7 @@ O desenvolvimento foi realizado utilizando GitHub,
 permitindo o versionamento do código e o trabalho
 colaborativo entre os integrantes da equipe.
 
-=========================================================
 12. CONCLUSÃO
-=========================================================
 
 O Nexus Gaming System atingiu os objetivos propostos
 para a disciplina, aplicando conceitos de Programação
